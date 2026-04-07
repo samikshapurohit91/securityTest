@@ -4,23 +4,31 @@ A complete Authentication & Authorization System built using Spring Boot and Spr
 
 - Features
   JWT Authentication (Access Token)
+  
   Refresh Token Implementation
+  
   Secure Logout (Token Blacklisting)
+  
   Role-Based Authorization (USER / ADMIN)
+  
   Password Encryption (BCrypt)
+  
   OAuth2 Login (Google)
+  
   Swagger API Documentation
+  
   Exception Handling
+  
 
-- Tech Stack
-  Java 17
-  Spring Boot
-  Spring Security
-  JWT (JSON Web Token)
-  Hibernate / JPA
-  MySQL
-  Maven
-  Swagger (OpenAPI)
+- Tech Stack 
+  Java 17 
+  Spring Boot 
+  Spring Security 
+  JWT (JSON Web Token) 
+  Hibernate / JPA 
+  MySQL 
+  Maven 
+  Swagger (OpenAPI) 
 
 - Project Structure
 

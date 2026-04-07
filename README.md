@@ -1,4 +1,4 @@
-Spring Boot Security Project
+SecurityTest - Spring Boot Security Project
 
 A complete Authentication & Authorization System built using Spring Boot and Spring Security.
 
@@ -78,5 +78,5 @@ Rate limiting
 API logging
 
 
-Author
+Author- 
 Samiksha Purohit
